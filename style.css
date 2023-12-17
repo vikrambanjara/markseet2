@@ -1,0 +1,53 @@
+h1 {
+  color: blue; text-align: center;
+}
+h2{
+  color: blue; text-align: center;
+}
+
+#left-container{
+  float: left;
+  padding: 10px;
+  font-size: 20px;
+}
+.divi{
+  color: red;
+}
+.divi2{
+  color: blue;
+}
+
+#right-container{
+  float: right;
+  padding: 10px;
+  font-size: 20px;
+}
+.divi3{
+  color: red;
+ 
+}
+.divi4{
+  color: blue;
+}
+table, tr, th, td{
+  border: 1px solid black;
+ border-spacing: 0px;
+ border-collapse: collapse;
+}
+
+#table-info{
+  width: 100%;
+  height: 100%;
+  margin-top: 100px
+  
+}
+
+
+
+#body-control{
+  border: 2px solid black;
+  border-spacing: 0px;
+  width: 70%;
+  
+ 
+}
